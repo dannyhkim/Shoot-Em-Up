@@ -1,6 +1,8 @@
 # Shoot-Em-Up
 Created a shooter genre game by developing several classes and utilizing OOP principles to generate the automated movement of the CPU enemies and bullets. Implemented a GUI and various methods to keep track of player lives, points, and an end game scenario. Devised an algorithm prompting the enemy bots’ bullets to follow and target the player’s movement.
 
+To play the game, run the "Game Panel" class. 
+
 The player must use the WASD keys to dodge the bullets that the enemies are shooting. There are 3 different iterative waves of enemies firing bullets at you.
 
 As the player, you can shoot back at the enemies using the "V" key. Player bullets are green.
