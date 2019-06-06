@@ -1,11 +1,3 @@
-/*
- * Assignment: Final Project - Bullet Hell
- * Name: Daniel Kim and Dan Diaconescu
- * Date: January 18, 2017
- * Teacher: Ms. Strelkovska
- * Course Code: ICS4U
- */
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
