@@ -28,7 +28,7 @@ public class EBullet extends Rectangle{
 
 		 //When x is greater than 0, subtract difference from x coordinate 
 		 if (x > 0) {
-			 this.x -= (angle*deltaY);;
+			 this.x -= (angle*deltaY);
 		 }
 		 //when y is greater than 0, subtract from y-coordinate 
 		 if (y > 0) {
